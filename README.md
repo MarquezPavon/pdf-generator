@@ -37,5 +37,5 @@ http://localhost:4000/api/pdf/generate
 
 ### Descargar PDF (desde el navegador)
 ```bash
-http://http://localhost:4000/api/pdf/download
+http://localhost:4000/api/pdf/download
 ```
